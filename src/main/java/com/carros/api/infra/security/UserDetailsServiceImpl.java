@@ -1,4 +1,4 @@
-package com.carros.api.security;
+package com.carros.api.infra.security;
 
 import com.carros.domain.User;
 import com.carros.domain.UserRepository;
